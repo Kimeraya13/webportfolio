@@ -1,0 +1,55 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: #fafaff;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 50px 0;
+}
+
+body {
+    background-image: url(images/landing-img.svg);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+
+
+
+h1 {
+    color: #788dd3;
+}
+
+h2 {
+    color: #2a446b;
+}
+
+
+h3 {
+    color: #2a446b;
+    font-size: 20px;
+}
+
+
+/*.custom-width-line {
+    border: 0;                  
+    height: 3px;  
+    width: 40%;              
+    background-color: #4dc5ef;  
+    margin: 0 auto; 
+}*/
+
+.card-rounded{
+    border-radius: 20px; 
+}
+
+
+.card-rounded:hover {
+    box-shadow: 0 0.5em 0.5em -0.4em #e9ecef;
+}
+
+.card-text {
+    font-size: 12px;
+}
